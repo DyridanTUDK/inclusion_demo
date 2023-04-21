@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap");
+body {
+  background-image: url("./delightin-dee-_WI3DGseB3g-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h1 {
+  font-family: "Edu NSW ACT Foundation", cursive;
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(255, 255, 255);
+  margin-top: 200px;
+}
+button {
+  border: 0;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  background-color: #8bb268;
+  color: white;
+  font-size: 1.5rem;
+  display: block;
+  margin: auto;
+}
+button:hover {
+  background-color: #6a8950;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
